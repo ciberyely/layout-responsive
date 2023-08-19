@@ -1,0 +1,1 @@
+Layout responsive is CSS
